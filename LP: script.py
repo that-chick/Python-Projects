@@ -23,3 +23,5 @@ print("Average Daily Revenue: ${0}".format(average_price))
 
 cuts_under_30 = [hairstyles[i] for i in range(len(hairstyles)) if new_prices[i] < 30]
 print(cuts_under_30)
+
+#did it
