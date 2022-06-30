@@ -19,7 +19,7 @@ else:
 cost_ground_premium = 120.00
 print(" Ground Shipping Premium $ ", cost_ground_premium)
 
-#Drone Shipping
+#Drone Shipping (duh)
 
 if weight <= 2:
   cost_drone_shipping = weight * 4.50 + 0
